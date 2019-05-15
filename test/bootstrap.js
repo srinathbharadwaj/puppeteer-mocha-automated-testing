@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-core');
 const { expect } = require('chai');
 const opn = require('opn');
 const cmd = require('node-cmd');
